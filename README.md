@@ -15,7 +15,7 @@
 
 ## How to Download and Install Wiztree?
 
-1. Go to https://wiztreefree.com/, find the download link.
+1. Go to **[wiztree](https://wiztreefree.com/)**, find the download link.
 2. Download the .exe installer, run it when done.
 3. Stick to instructions, choose where to install.
 4. Finish the installation process.
