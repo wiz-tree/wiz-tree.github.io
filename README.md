@@ -1,7 +1,7 @@
 ## Wiztree
 
 
-WizTree is a fast and free tool for Windows that helps you see what's using up space on your hard drive. It quickly shows you the sizes of files and folders, letting you find large ones easily. It's known for its speed and efficiency.
+**[wiztree]()** is a fast and free tool for Windows that helps you see what's using up space on your hard drive. It quickly shows you the sizes of files and folders, letting you find large ones easily. It's known for its speed and efficiency.
 
 
 ## Features of Wiztree
@@ -23,7 +23,7 @@ WizTree is a fast and free tool for Windows that helps you see what's using up s
 
 ## How to use Wiztree?
 
-1. Click on the WizTree icon to start the program.
+1. Click on the **[wiztree]()** icon to start the program.
 2. Choose the drive you want to check. Click on it.
 3. WizTree will quickly scan the drive, showing the biggest things first.
 4. Check the list to find large files. Right-click to delete if needed.
